@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Minesweeper.cpp
+d:\games\minesweeper\minesweeper\minesweeper\minesweeper.cpp(12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+d:\games\minesweeper\minesweeper\minesweeper\minesweeper.cpp(71): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Minesweeper.vcxproj -> D:\Games\Minesweeper\Minesweeper\x64\Debug\Minesweeper.exe
+  Minesweeper.vcxproj -> D:\Games\Minesweeper\Minesweeper\x64\Debug\Minesweeper.pdb (Partial PDB)
